@@ -261,7 +261,7 @@ const USER_CONFIG = {
 
         {keyword: 'lover_prattle',
         contents: [
-          '什么时候才能不用隔着屏幕对你说早安。早安。'
+          '多希望叫醒你的不是闹钟，而是我的早安和早餐~'
         ]},
   ],
     // 你可以不断按格式往下增加
