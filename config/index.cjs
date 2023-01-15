@@ -261,7 +261,7 @@ const USER_CONFIG = {
 
         {keyword: 'lover_prattle',
         contents: [
-          '睡也是你，醒也是你，无孔不入全世界都是你。'
+          '早安，早上好'
         ]},
   ],
     // 你可以不断按格式往下增加
