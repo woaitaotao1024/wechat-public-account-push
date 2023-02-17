@@ -261,7 +261,7 @@ const USER_CONFIG = {
 
         {keyword: 'lover_prattle',
         contents: [
-          '人总是贪婪的，就像最初我只是想知道你的名字。'
+          '我想和你永远在一起'
         ]},
   ],
     // 你可以不断按格式往下增加
