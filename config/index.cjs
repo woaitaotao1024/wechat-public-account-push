@@ -67,7 +67,7 @@ const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oT3kj56JAml4Or9W8P1LpWiP3SsQ',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: 'adDO7JKDYyGX61SQLuAsCrRzyJduI5Mk1hii-TCJaCk',
+      useTemplateId: 'e3lmGE-AT-HcSrbymadYczummKRscqnt9Tgq3m8T8C0',
       // 所在省份
       province: '浙江',
       // 所在城市
@@ -261,7 +261,7 @@ const USER_CONFIG = {
 
         {keyword: 'lover_prattle',
         contents: [
-          '我之前控制不好自己的情绪还十分的幼稚，我会从现在开始改变自己。如果还有机会，我会让你看到我的改变，时间能告诉你我说的话不是空头支票，而是一诺千金。'
+          '今天第一次站在你的角度看我自己，这个人没有一点责任感，一遇到问题就归咎于他人，不愿意承认自己的错误，情绪十分不稳定像泼皮无赖一样，想要得到东西就撒泼打滚。对不起，我知道这样的自己让你失望了，不管怎样我都尊重你的选择。'
         ]},
   ],
     // 你可以不断按格式往下增加
