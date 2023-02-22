@@ -67,7 +67,7 @@ const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oT3kj56JAml4Or9W8P1LpWiP3SsQ',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: 'e3lmGE-AT-HcSrbymadYczummKRscqnt9Tgq3m8T8C0',
+      useTemplateId: 'Ne0G3LHTuhfJOmYoia3_KiMct_ikQQw852mMNOJ3kIs',
       // 所在省份
       province: '浙江',
       // 所在城市
@@ -261,7 +261,7 @@ const USER_CONFIG = {
 
         {keyword: 'lover_prattle',
         contents: [
-          '正如你所说，冷静真的是遇到事情首要的情绪状态。像之前那样幼稚且胡搅蛮缠的行为只会让事情越来越糟，我换位思考了下，就像是有个人一直在道德绑架我，让我对他的观感越降越低，十分抱歉。桃宝，不管结局会是怎么样，我都尊重你的选择，顺其自然的做自己，要记住自己开心永远是最重要的事情。'
+          '你若安好，便是晴天。'
         ]},
   ],
     // 你可以不断按格式往下增加
