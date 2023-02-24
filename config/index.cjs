@@ -261,7 +261,7 @@ const USER_CONFIG = {
 
         {keyword: 'lover_prattle',
         contents: [
-          '你若安好，便是晴天。'
+          '能离开是我挽留你的唯一理由。希望你一切都好，你若安好，便是晴天。'
         ]},
   ],
     // 你可以不断按格式往下增加
