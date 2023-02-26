@@ -67,7 +67,7 @@ const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oT3kj56JAml4Or9W8P1LpWiP3SsQ',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: 'uxshSi0nX4natupZELiHSe7cxz9M7AOHuZZVdnowTJY',
+      useTemplateId: 'sPKVGekJqV5Z0Oib0a-2oO80dWWXbEjZ4UZZzdik0ec',
       // 所在省份
       province: '浙江',
       // 所在城市
@@ -261,7 +261,7 @@ const USER_CONFIG = {
 
         {keyword: 'lover_prattle',
         contents: [
-          '时间是个无赖，总是喜欢毁掉期待。最近新闻甲流进入高发期了，出门要记得戴好口罩。感觉你不开心，无聊的时候叫朋友出门逛逛街买买衣服呀，最近室友在看那个你之前说过的向风而行，要是不想出门的话，在家里刷刷剧呀。'
+          '周五：糟糕的一天从前一天失眠开始，我这失眠一周了，今天得有多糟糕啊，唉。一切的努力好像都起的是反作用，第一次怀疑是不是躺平什么都不干更好一些。下午又被领导抓到台上当众处刑，过不下去了，这日子一天天的。'
         ]},
   ],
     // 你可以不断按格式往下增加
