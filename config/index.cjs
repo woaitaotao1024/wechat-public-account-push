@@ -67,7 +67,7 @@ const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oT3kj56JAml4Or9W8P1LpWiP3SsQ',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: 'sPKVGekJqV5Z0Oib0a-2oO80dWWXbEjZ4UZZzdik0ec',
+      useTemplateId: 'uxshSi0nX4natupZELiHSe7cxz9M7AOHuZZVdnowTJY',
       // 所在省份
       province: '浙江',
       // 所在城市
@@ -261,7 +261,7 @@ const USER_CONFIG = {
 
         {keyword: 'lover_prattle',
         contents: [
-          '如果当初忍住只做朋友，是不是会一辈子都在一起。不开心的话可以写一写呀，把不开心的事情写到纸上，写到日记里，封存起来，如果你愿意跟我分享，我也可以和你一起分享，一定要开心呀，我一直都在。'
+          '我不是恋爱脑，我只想认真的和你在一起，也不知道时间和见面哪个才是解药。'
         ]},
   ],
     // 你可以不断按格式往下增加
