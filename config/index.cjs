@@ -67,7 +67,7 @@ const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oT3kj56JAml4Or9W8P1LpWiP3SsQ',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: 'uxshSi0nX4natupZELiHSe7cxz9M7AOHuZZVdnowTJY',
+      useTemplateId: 's-uj7WMWPbd_ehF9sTTMYIAJ2RUq155UkuLRYUUveU0',
       // 所在省份
       province: '浙江',
       // 所在城市
@@ -261,7 +261,7 @@ const USER_CONFIG = {
 
         {keyword: 'lover_prattle',
         contents: [
-          '我不是恋爱脑，我只想认真的和你在一起，也不知道时间和见面哪个才是解药。你说要好好学习，我看了下今年教资考试报名在3月1日开始，离四级考试还有三个月，需要每天背40个单词。'
+          '如果我说我现在约你去网吧，你会不会觉得我是神经病。（有意直接call我，我最快时间赶到） 背单词提醒：今日40个四级英语词汇 1/88（未完成）'
         ]},
   ],
     // 你可以不断按格式往下增加
